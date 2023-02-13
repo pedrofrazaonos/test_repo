@@ -1,3 +1,3 @@
 # test_repo #
 
-- test push over ssh.
+- push over ssh tested.
